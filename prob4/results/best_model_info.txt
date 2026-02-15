@@ -1,0 +1,3 @@
+Model: Naive Bayes
+Features: TF-IDF Unigram
+Test Accuracy: 0.9772

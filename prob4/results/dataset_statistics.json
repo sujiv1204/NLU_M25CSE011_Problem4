@@ -1,0 +1,14 @@
+{
+  "total_documents": 5251,
+  "sport_documents": 2352,
+  "politics_documents": 2899,
+  "avg_words_per_doc": 249.804418206056,
+  "median_words_per_doc": 131.0,
+  "min_words": 5,
+  "max_words": 11029,
+  "avg_chars_per_doc": 1408.6663492668063,
+  "total_words": 1311723,
+  "vocabulary_size": 46388,
+  "sport_avg_words": 179.7716836734694,
+  "politics_avg_words": 306.62297343911695
+}
