@@ -1,6 +1,6 @@
 # Sport vs Politics Text Classification
 
-**M25CSE011**
+**M25CSE011 NLU Problem 4**
 
 ## Description
 
@@ -59,7 +59,7 @@ pip install numpy pandas matplotlib scikit-learn requests
 
 ## How to Run
 
-### 1. Analyze dataset (optional but recommended)
+### 1. Analyze dataset
 
 ```bash
 python3 dataset_analysis.py
@@ -77,7 +77,7 @@ python3 classifier.py
 - Trains all 12 combinations, saves best model, creates plots
 - Takes 5-10 minutes
 
-### 3. Test predictions (optional)
+### 3. Test predictions
 
 ```bash
 python3 test_predictions.py
